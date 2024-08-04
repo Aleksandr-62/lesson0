@@ -1,0 +1,1 @@
+print((99.9 > 99.8 and (100 != 100.1)))      #2nd programm
