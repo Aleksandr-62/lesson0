@@ -5,7 +5,7 @@ print(9**0.5*5)
 print((99.9 > 99.8 and (100 != 100.1)))
 
 #3nd programm
-print(2*2+))
+print(2*2+2)
 print(2*(2+2))
 print(2*2+2==2*(2+2))
 
